@@ -1,0 +1,34 @@
+baseURL = 'localhost'
+languageCode = 'en-us'
+title = 'Free Learning'
+theme = "slate"
+
+[ params ]
+BackgroundImages = [
+  "bg/Red3.gif",
+  "bg/Red2.gif",
+  "bg/Red.gif"
+]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = false
+
+[[ params.nav ]]
+name = "RedTeam"
+tag = "Red"
+icon = "unlock"
+[[ params.nav ]]
+name = "Programming"
+tag = "Programming"
+icon = "pencil"
+[[ params.nav ]]
+name = "windows"
+tag = "windows"
+icon = "windows"
+[[ params.nav ]]
+name = "Linux"
+tag = "Linux"
+icon = "Linux"
+[[ params.nav ]]
+name = "books"
+tag = "books"
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firewalls on RedTeam Blueprint</title>
+    <link>redteam-nation/docs/firewalls/</link>
+    <description>Recent content in Firewalls on RedTeam Blueprint</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="redteam-nation/docs/firewalls/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
